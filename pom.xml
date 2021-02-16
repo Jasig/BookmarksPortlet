@@ -30,7 +30,7 @@
     </issueManagement>
 
     <properties>
-        <spring.version>3.2.18.RELEASE</spring.version>
+        <spring.version>5.3.4</spring.version>
         <uportal-libs.version>5.9.0</uportal-libs.version>
     </properties>
 
